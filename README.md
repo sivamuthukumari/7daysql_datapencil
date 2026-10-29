@@ -49,6 +49,45 @@ To improve my SQL skills through hands-on practice and build a portfolio of SQL 
 - Analyze customer purchasing patterns.
 - Track order fulfilment to improve operational efficiency.
 
+
+## Day 3 – Sales and Payment Analysis
+
+**Project Topic:** Sales Performance and Payment Analysis
+
+**Goal:** Analyze sales revenue, product performance, sales channels, and payment patterns using SQL.
+
+**Role:** Junior Data Analyst – Online Store
+
+### Tasks Completed
+- Calculated total sales value.
+- Analyzed revenue by product category.
+- Identified the top 10 products by revenue.
+- Analyzed monthly revenue trends.
+- Compared revenue across sales channels.
+- Calculated total quantity by product category.
+- Counted payments by payment method.
+- Analyzed payment status distribution.
+- Calculated the average recorded payment amount.
+- Compared total payment amounts by payment method.
+
+### Key Insights
+- Analyzed sales revenue to understand overall sales performance.
+- Compared product categories to identify high-performing categories.
+- Ranked products based on revenue.
+- Examined monthly revenue patterns.
+- Evaluated sales channel performance.
+- Analyzed payment methods and payment statuses.
+- Calculated average payment amount to understand payment values.
+
+### Business Recommendations
+- Focus on products and categories that generate higher revenue.
+- Monitor monthly revenue trends for business planning.
+- Compare sales channel performance when planning marketing activities.
+- Review payment statuses to identify potential payment issues.
+- Use payment method analysis to improve the customer payment experience.
+
 **Tools Used:** SQL Server, SQL Server Management Studio (SSMS)
+
+**Status:** Completed
 
 **Status:** Completed
