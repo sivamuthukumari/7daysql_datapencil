@@ -90,4 +90,49 @@ To improve my SQL skills through hands-on practice and build a portfolio of SQL 
 
 **Status:** Completed
 
+## Day 4 – Business Scenario and Customer Loyalty
+
+### Project Topic
+Business Scenario and Customer Loyalty
+
+### Objective
+To analyze customer behavior, purchasing patterns, spending habits, and customer segments to identify valuable customers and improve customer loyalty.
+
+### Tasks Covered
+1. Total number of registered customers.
+2. Customer distribution by city.
+3. Top 10 customers based on non-cancelled order count.
+4. Customer-wise spending excluding cancelled orders.
+5. Average spending per customer among customers with at least one non-cancelled order.
+6. Customers with more than 5 non-cancelled orders.
+7. Customer segment analysis.
+8. Average non-cancelled orders per customer, including customers with zero qualifying orders.
+9. Top 10 customers based on spending from non-cancelled orders.
+10. Monthly customer registrations in chronological order.
+
+### Key Insights
+- A total of 1,000 customers are registered in the database.
+- Lucknow has the highest customer count, with 65 customers.
+- Customers 503 and 434 have the highest visible non-cancelled order count, with 9 orders each.
+- Customer spending varies across customers. Customer 1 has a visible spending amount of 93,433.69.
+- The average spending per qualifying customer is approximately 57,624.82.
+- Several customers have placed more than 5 non-cancelled orders.
+- Regular customers form the largest segment with 564 customers, followed by New customers (256) and Premium customers (180).
+- The average number of non-cancelled orders per customer is approximately 2.764, including customers with zero qualifying orders.
+- September 2025 recorded 29 new customer registrations.
+
+### Business Recommendations
+- Focus on retaining Regular customers through loyalty rewards and personalized offers.
+- Provide special benefits to Premium customers to maintain their loyalty.
+- Identify high-spending and frequent-order customers and offer targeted promotions.
+- Analyze city-wise customer distribution to improve marketing strategies.
+- Monitor monthly customer registrations to understand customer acquisition trends.
+
+### Tools Used
+- SQL Server
+- SQL (Joins, Aggregate Functions, Subqueries, GROUP BY, ORDER BY)
+
+**Status:** Completed
+
+
 **Status:** Completed
