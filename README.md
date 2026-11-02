@@ -172,3 +172,38 @@ To analyze product sales, category performance, quantity sold, pricing, sales ch
 
   **Status:** Completed
 
+  ## Day 6 – Order Fulfillment and Delivery Analysis
+
+### Project Objective
+To analyze order fulfillment and delivery performance, identify delivery delays, understand monthly order trends, and evaluate delivery efficiency across different customer cities.
+
+### Tasks Performed
+1. Counted orders based on each order status.
+2. Analyzed deliveries by delivery status.
+3. Calculated the average delivery time for completed deliveries.
+4. Identified the 10 deliveries that took the longest time to arrive.
+5. Analyzed month-wise order volume and compared it with the previous month.
+6. Analyzed payment distribution across different payment statuses.
+7. Identified completed deliveries that took more than five days.
+8. Compared average delivery time across customer cities.
+
+### Key Insights
+- Order status analysis helps understand the distribution of orders across different stages.
+- Delivery status analysis helps identify successful, delayed, returned, and cancelled deliveries.
+- Average delivery time helps evaluate overall delivery performance.
+- Identifying the longest delivery times helps detect potential delays and delivery issues.
+- Month-wise order volume comparison helps identify changes in customer demand.
+- City-wise delivery time analysis helps identify locations that may require logistics improvements.
+
+### Business Recommendations
+- Monitor delayed and returned deliveries to improve delivery performance.
+- Investigate orders that take more than five days to arrive.
+- Use monthly order trends to plan inventory and delivery resources.
+- Improve logistics planning in cities with higher average delivery times.
+- Monitor payment statuses to identify payment-related issues.
+
+### Tools Used
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- GitHub
+
