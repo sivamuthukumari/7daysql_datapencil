@@ -207,3 +207,70 @@ To analyze order fulfillment and delivery performance, identify delivery delays,
 - SQL Server Management Studio (SSMS)
 - GitHub
 
+## Day 7 – Final Project: AI-Assisted Business Data Analysis
+
+### Project Objective
+To analyze an online store's business performance using SQL and AI assistance. The project focuses on sales performance, product analysis, customer behaviour, payment status, and delivery efficiency to generate meaningful business insights.
+
+### Tools Used
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- Visual Studio Code
+- GitHub Copilot (AI Assistance)
+- GitHub
+
+### Tasks Performed
+
+1. Analyzed total orders and order status distribution.
+2. Calculated total sales value from non-cancelled orders.
+3. Identified months with the highest and lowest order volumes.
+4. Analyzed sales performance by sales channel.
+5. Calculated sales value by product category.
+6. Identified the top 10 products by sales value.
+7. Identified products with no sales from non-cancelled orders.
+8. Estimated profit by product category.
+9. Identified the top 10 customers by non-cancelled order count.
+10. Analyzed the top 10 customers by spending value.
+11. Identified cities with the largest customer base.
+12. Compared average customer spending by segment.
+13. Analyzed payment status distribution.
+14. Calculated average delivery time.
+15. Identified orders taking more than five days to deliver.
+
+### Key Business Insights
+
+- A total of 3,000 orders were recorded, with 1,796 delivered orders.
+- Non-cancelled orders generated a calculated sales value of ₹5,76,24,820.18.
+- April 2025 recorded the highest order volume with 161 orders, while February 2025 recorded the lowest with 123 orders.
+- Social Commerce generated the highest sales value among the three sales channels.
+- Sports & Fitness was the highest revenue-generating and estimated profit-generating category.
+- Storage Box 26 recorded the highest product sales value of ₹9,41,213.73.
+- Customer IDs 503, 434, and 509 recorded the highest non-cancelled order count, with 9 orders each.
+- Customer ID 298 recorded the highest calculated spending of ₹2,63,767.46.
+- Lucknow had the largest customer base with 65 customers.
+- Regular customers recorded the highest average spending of ₹63,055.46.
+- Paid payments accounted for 2,542 records.
+- Average delivery time was approximately 7.43 days.
+- Several orders took more than five days to arrive, highlighting opportunities to improve delivery performance.
+
+### Business Recommendations
+
+- Improve sales strategies across different sales channels.
+- Focus on high-performing products and categories to improve revenue.
+- Introduce customer loyalty programs to retain high-value customers.
+- Investigate failed payments and refunded transactions.
+- Improve inventory planning based on product demand.
+- Monitor delivery delays and optimize logistics operations.
+- Use customer segmentation to develop targeted marketing strategies.
+
+### AI Assistance
+
+Used GitHub Copilot in Visual Studio Code to explore database structure, understand SQL queries, and support SQL analysis. Reviewed AI-generated suggestions and validated query logic before using them.
+
+### Final Learning Outcomes
+
+- Gained practical experience in solving business problems using SQL.
+- Improved understanding of joins, aggregate functions, subqueries, and data analysis.
+- Learned to derive business insights from SQL query results.
+- Gained hands-on experience using AI assistance in a SQL development workflow.
+- Completed a seven-day SQL practice challenge using a real-world-style online store dataset.
